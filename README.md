@@ -35,4 +35,4 @@ Implement and document key security measures to safeguard application data and e
 **<h4>CI/CD Pipeline Integration:</h4>**
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
-This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution
