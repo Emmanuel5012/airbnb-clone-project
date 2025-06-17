@@ -17,7 +17,7 @@ This project is tailored to enhance your expertise in modern software developmen
 **<h4>Hands-on GitHub Repository Management:</h4>**
 Learn to initialize and structure a project repository, adhering to industry best practices.
 
-**<h2>Team Role Documentation:</h2>**
+**<h2>Team Roles</h2>**
 Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
 
 **<h3>Business analyst (BA)</h3>**
