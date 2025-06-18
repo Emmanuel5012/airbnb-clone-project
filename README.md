@@ -239,3 +239,36 @@ View Specific Review – Users can read detailed individual reviews, aiding in p
 Update Review – Allows users to revise their reviews, keeping feedback honest, current, and relevant.
 
 Admin Delete Review – Enables admins to remove inappropriate or false reviews, preserving content quality and platform integrity.
+
+**<h2>API Security</h2>**
+
+**<h3> 1. Authentication</h3>**
+
+Purpose: Ensure that users are who they say they are before accessing protected endpoints.
+
+ Users – Logging in, accessing profiles, updating or deleting accounts.
+ Properties – Adding, updating, or deleting a property.
+ Bookings – Creating or managing bookings.
+ Payments – Processing or accessing payment history.
+
+---
+
+**<h3> 2. Authorization</h3>**
+
+Purpose: Control what actions a user is allowed to perform based on roles (e.g., admin vs regular user).
+
+ Users – Only users can edit/delete their own profiles; only admins can view all users.
+ Properties – Only the owner or an admin can update or delete.
+ Bookings – Users manage only their bookings; admin can oversee all.
+ Payments – Payments are tied to user identity; only admins can override or inspect others'.
+
+---
+
+**<h3> 3. Rate Limiting</h3>**
+
+Purpose: Prevent abuse, brute force attacks, and ensure fair usage of the API.
+
+ Users – Limit login attempts, account creation, and profile edits.
+ Properties – Limit property listing frequency to prevent spam.
+ Bookings – Throttle booking requests to prevent overbooking or abuse.
+ Payments – Limit payment retries to prevent fraud and accidental double charges.
