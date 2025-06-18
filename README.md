@@ -133,12 +133,19 @@ This structured approach ensures learners not only build technical skills but al
 **<h2>Technology Stack</h2>**
 
 **HTML5 and CSS3:** The building blocks of the web.
+
 **Shell Scripting:** Automating tasks and managing systems.
+
 **JavaScript (Beginner/Intermediate):** The language of the web. For ProDev Frontend Engineers
+
 **Python (Beginner/Intermediate):** The versatile, powerful programming language. For ** ProDev Backend Engineers **
+
 **Databases (Relational and Non-relational):** Managing data effectively. For ** ProDev Frontend Engineers **
+
 **Docker** for containerization
+
 **Git** for version control
+
 **Jenkins** for CI/CD pipelines.
 
 
