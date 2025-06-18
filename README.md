@@ -187,3 +187,55 @@ Users can create reviews about properties.
 Users can view reviews left by other users.
 
 Admins have the ability to delete any review.
+
+
+**<h2>Feature Breakdown</h2>**
+
+**<h3>User Management</h3>**
+Register a New User – Allows users to sign up and gain access to core platform features like booking and reviewing, enabling personalization and account-based interactions.
+
+View All Users / Specific User – Admins can access user data to provide support and manage platform usage, improving administrative oversight and user trust.
+
+Update User Information – Users and admins can modify account details, keeping data accurate and ensuring smooth user experiences.
+
+Delete User – Both users and admins can remove user accounts, giving users control over their data and helping maintain a clean, active user base.
+
+**<h3> Property Management</h3>**
+Add/View Property – Users and admins can list properties, while anyone (including guests) can browse listings, driving platform engagement and visibility.
+
+View All Properties – Enables users and visitors to explore the full catalog of available properties, supporting discovery and conversion.
+
+View Property Details – Offers comprehensive property info to help users make informed booking decisions, increasing trust and conversion rates.
+
+Update Property Info – Owners or admins can revise details like type or quality, keeping listings relevant and up-to-date.
+
+Delete Property – Users or admins can remove outdated or unavailable properties, ensuring the platform remains clean and accurate.
+
+**<h3>Booking Management</h3>**
+Create Booking – Lets users reserve properties, fulfilling the platform’s core function of connecting users with property owners.
+
+View All Bookings – Allows users and admins to track reservations, ensuring accountability and improving user experience.
+
+View Specific Booking – Users and admins can inspect individual bookings for status updates, promoting clarity and trust.
+
+Modify Booking – Enables users/admins to make changes to booking details, offering flexibility in planning and scheduling.
+
+Cancel/Delete Booking – Lets users or admins cancel reservations, accommodating changes in plans and reducing friction.
+
+**<h3> Payment Processing</h3>**
+Make Payment – Users can pay for bookings or property listings, enabling transactions and platform monetization.
+
+Link Payments to Users/Bookings – Associates payments with the relevant users and bookings, ensuring financial traceability and integrity.
+
+Admin Override / Decline Payment – Admins can approve or reject payments (e.g. failed attempts), adding flexibility and dispute management.
+
+**<h3> Review System</h3>**
+Submit Review – Users can leave feedback on properties, building trust and providing insights for future users.
+
+View All Reviews – Guests and users can browse all reviews, helping them evaluate properties and boosting transparency.
+
+View Specific Review – Users can read detailed individual reviews, aiding in property evaluation and decision-making.
+
+Update Review – Allows users to revise their reviews, keeping feedback honest, current, and relevant.
+
+Admin Delete Review – Enables admins to remove inappropriate or false reviews, preserving content quality and platform integrity.
