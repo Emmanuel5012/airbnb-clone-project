@@ -272,3 +272,22 @@ Purpose: Prevent abuse, brute force attacks, and ensure fair usage of the API.
  Properties – Limit property listing frequency to prevent spam.
  Bookings – Throttle booking requests to prevent overbooking or abuse.
  Payments – Limit payment retries to prevent fraud and accidental double charges.
+
+
+**<h2>CI/CD Pipeline</h3>**
+
+**<h3> What Are CI/CD Pipelines?</h3>**
+
+CI/CD stands for Continuous Integration and Continuous Deployment/Delivery. A CI/CD pipeline is a set of automated steps that take your code from development to production efficiently and reliably.
+Continuous Integration (CI): Automatically tests and merges code from different developers into a shared repository to catch bugs early.
+Continuous Deployment/Delivery (CD): Automatically builds, tests, and deploys code to staging or production environments.
+
+**<h3> Why CI/CD Pipelines Are Important for This Project</h3>**
+
+Faster Development: Code changes are integrated and deployed quickly, allowing rapid iteration of features like booking, payments, and reviews.
+Improved Quality: Automated testing ensures bugs are caught early, before they reach users.
+Consistency: Every deployment follows the same steps, reducing human error.
+Scalability: The system can handle more contributors and features without slowing down.
+Instant Feedback: Developers get real-time results from builds and tests, enabling quicker fixes.
+
+**_Source for CI/CD Pipeline: ChatGPT_**
