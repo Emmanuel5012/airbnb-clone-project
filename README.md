@@ -140,3 +140,50 @@ This structured approach ensures learners not only build technical skills but al
 **Docker** for containerization
 **Git** for version control
 **Jenkins** for CI/CD pipelines.
+
+
+**<h2>Database Design</h2>
+**<h3>Users</h3>**
+Can create and manage multiple bookings.
+
+Can list properties for rent or sale.
+
+Can make payments for bookings or properties.
+
+Can write and view reviews.
+
+Can delete their own properties or bookings.
+
+**<h3>Properties</h3>**
+Each property is owned by a user.
+
+Properties can be created by users or assigned by an admin.
+
+Can be booked and paid for by users.
+
+Property details such as type, quality, and unique identifiers can be updated.
+
+Properties can be deleted by the user who created them.
+
+**<h3>Bookings</h3>**
+Users can view a list of their bookings.
+
+New bookings can be created by users.
+
+Bookings require payment after confirmation.
+
+Each booking is linked to a specific property.
+
+**<h3>Payments</h3>**
+Initiated by users after booking a property.
+
+Payments are associated with both a booking and a property.
+
+A user can track and manage their payment history.
+
+**<h3>Reviews</h3>**
+Users can create reviews about properties.
+
+Users can view reviews left by other users.
+
+Admins have the ability to delete any review.
