@@ -129,3 +129,14 @@ Implement and document key security measures to safeguard application data and e
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution
+
+**<h2>Technology Stack</h2>**
+
+**HTML5 and CSS3:** The building blocks of the web.
+**Shell Scripting:** Automating tasks and managing systems.
+**JavaScript (Beginner/Intermediate):** The language of the web. For ProDev Frontend Engineers
+**Python (Beginner/Intermediate):** The versatile, powerful programming language. For ** ProDev Backend Engineers **
+**Databases (Relational and Non-relational):** Managing data effectively. For ** ProDev Frontend Engineers **
+**Docker** for containerization
+**Git** for version control
+**Jenkins** for CI/CD pipelines.
